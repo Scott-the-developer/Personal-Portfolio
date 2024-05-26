@@ -5,8 +5,8 @@ import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Skills from "@/components/Skills";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
-import Image from "next/image";
-import { FaHome } from "react-icons/fa";
+import { FaAndroid, FaBarcode, FaHome, FaHtml5, FaJava } from "react-icons/fa";
+import { FaMobile, FaT } from "react-icons/fa6";
 
 export default function Home() {
   return (
@@ -14,11 +14,11 @@ export default function Home() {
      <div className="mx-w-7xl w-full">
       <FloatingNav navItems={[
         {name: 'Home', link: '/', icon: <FaHome/>},
-        {name: 'Coding', link: '#coding', icon: <FaHome/>},
-        {name: 'About', link: '#about', icon: <FaHome/>},
-        {name: 'Experience', link: '#experience', icon: <FaHome/>},
-        {name: 'Skills', link: '#skills', icon: <FaHome/>},
-        {name: 'Footer', link: '#footer', icon: <FaHome/>}
+        {name: 'Coding', link: '#coding', icon: <FaHtml5/>},
+        {name: 'About', link: '#about', icon: <FaAndroid/>},
+        {name: 'Experience', link: '#experience', icon: <FaJava/>},
+        {name: 'Skills', link: '#skills', icon: <FaMobile/>},
+        {name: 'Footer', link: '#footer', icon: <FaT/>}
       ]}/>
       <Hero />
       <Grid />

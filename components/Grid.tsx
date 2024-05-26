@@ -69,7 +69,7 @@ const Grid = () => {
                             transition={{ duration: 1 }}
                             className=" bg-[url('/b5.svg')] h-40 sm:h-auto w-full bg-center border col-span-10  sm:col-span-6 sm:row-span-2  rounded-3xl ">
                             <motion.h1 className='sm:p-5 sm:text-2xl text-sm p-5 font-bold sm:relative sm:top-10 '>
-                                "A website without visitors is like a ship lost in the horizon."
+                                &apos;A website without visitors is like a ship lost in the horizon.&apos;
                                 <p className="sm:text-sm text-xs font-light text-purple ext-gray-400">
                                     — Dr. Christopher Dayagdag, Digital Marketer
 
@@ -83,7 +83,7 @@ const Grid = () => {
                             transition={{ duration: 1 }}
                             className="border col-span-10 h-40 sm:h-auto sm:col-span-4 sm:row-span-1  rounded-3xl bg-[url('/bg.png')] bg-cover">
                             <h1 className='sm:p-5 sm:text-xl text-sm p-5 font-bold sm:relative sm:top-10'>
-                                "The web is more a social creation than a technical one. I designed it for a social effect—to help people work together—and not as a technical toy."
+                            &apos;The web is more a social creation than a technical one. I designed it for a social effect—to help people work together—and not as a technical toy.&apos;
                                 —
                                 <p className="sm:text-sm text-xs font-light text-purple ext-gray-400">
                                     Tim Berners-Lee, World Wide Web
@@ -98,7 +98,7 @@ const Grid = () => {
                             className="border col-span-10 h-40 sm:h-auto sm:col-span-4 sm:row-span-1  rounded-3xl bg-[url('/b4.svg')] bg-fit">
                             <h1 className='sm:p-5 sm:text-xl text-sm p-5 font-bold sm:relative sm:top-10 '>
 
-                                "Content precedes design. Design in the absence of content is not design, it's decoration."
+                            &apos;Content precedes design. Design in the absence of content is not design, it&apos;s decoration.&apos;
 
                                 <p className="sm:text-sm text-xs font-light text-purple ">
 
@@ -113,7 +113,7 @@ const Grid = () => {
                             transition={{ duration: 1 }}
                             className="border col-span-10 h-40 sm:h-auto sm:col-span-2 sm:row-span-2  rounded-3xl bg-[url('/grid.svg')] bg-cover">
                             <h1 className='sm:p-5 sm:text-xl text-sm p-5 font-bold sm:relative sm:top-10'>
-                                "Websites promote you 24/7: No employee will do that."
+                            &apos;Websites promote you 24/7: No employee will do that.&apos;
                                 <p className="sm:text-sm text-xs font-light text-purple ">
                                     — Paul Cookson, Author
                                 </p>
@@ -126,7 +126,7 @@ const Grid = () => {
                             transition={{ duration: 1 }}
                             className="border col-span-10 h-40 sm:h-auto sm:col-span-2 sm:row-span-2  rounded-3xl bg-[url('/b4.svg')] bg-cover">
                             <h1 className='sm:p-5 sm:text-xl text-sm p-5 font-bold sm:relative sm:top-10'>
-                                "The details are not the details. They make the design."
+                            &apos;The details are not the details. They make the design.&apos;
                                 <p className="sm:text-sm text-xs font-light text-purple ">
                                     — Charles Eames, Designer
                                 </p>
