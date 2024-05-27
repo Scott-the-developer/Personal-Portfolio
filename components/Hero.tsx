@@ -29,7 +29,7 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <div className="text-center md:tracking-wider text-purpl p-4 mb-4 text-2xl md:text-lg lg:text-4xl">
-            Hi! My name is <span className="text-purple lg:text-5xl">Sello Telly</span> and i&apos;m,
+            Hi! My name is <span className="text-purple lg:text-5xl">Sello Telly</span> and I&apos;m,
             <div className="mt-4 textxl text-pink-300 md:text-xl ">
             <Typewriter
             
