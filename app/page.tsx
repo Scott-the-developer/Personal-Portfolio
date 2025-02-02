@@ -7,6 +7,7 @@ import Skills from "@/components/Skills";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { FaAndroid, FaBarcode, FaHome, FaHtml5, FaJava } from "react-icons/fa";
 import { FaMobile, FaT } from "react-icons/fa6";
+import Work from "@/components/Work";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
         {name: 'About', link: '#about', icon: <FaAndroid/>},
         {name: 'Experience', link: '#experience', icon: <FaJava/>},
         {name: 'Skills', link: '#skills', icon: <FaMobile/>},
+        {name: 'Work', link: '#work', icon: <FaMobile/>},
         {name: 'Footer', link: '#footer', icon: <FaT/>}
       ]}/>
       <Hero />
@@ -25,6 +27,7 @@ export default function Home() {
       <About/>
       <Experience/>
       <Skills/>
+      <Work/>
       <Footer/>
      </div>
     </main>

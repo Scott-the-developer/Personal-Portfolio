@@ -84,15 +84,26 @@ export const skills = [
 },
 {
   id: 21,
-  name: "Jira"
+  name: "UI/UX Design"
 },
 {
   id: 22,
+  name: "Shadcn"
+},
+{
+  id: 23,
+  name: "Confluence"
+}, {
+  id: 24,
+  name: "Jira"
+},
+{
+  id: 25,
   name: "Slack"
 },
 {
-  id: 21,
-  name: "Confluence"
+  id: 26,
+  name: "API integration"
 },
 ]
 
